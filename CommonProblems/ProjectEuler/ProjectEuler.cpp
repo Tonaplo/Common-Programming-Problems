@@ -7,8 +7,8 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Problem2 *pb2 = new Problem2();
-	pb2->Execute();
+	Problem3 *pb3 = new Problem3();
+	pb3->Execute();
 
 	
 	std::cin.ignore();
