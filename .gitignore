@@ -19,6 +19,7 @@ bld/
 [Bb]in/
 [Oo]bj/
 CommonProblems/.vs/
+CommonProblems/enc_temp_folder/
 
 # Roslyn cache directories
 *.ide/
