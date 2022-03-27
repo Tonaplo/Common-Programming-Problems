@@ -7,7 +7,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Problem3 *pb3 = new Problem3();
+	Problem4 *pb3 = new Problem4();
 	pb3->Execute();
 
 	
