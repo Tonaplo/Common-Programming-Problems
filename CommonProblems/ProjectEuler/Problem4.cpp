@@ -15,4 +15,6 @@ Problem4::~Problem4()
 }
 
 void Problem4::Execute()
-{}
+{
+	std::cout << "No solution implemented yet!";
+}
